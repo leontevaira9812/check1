@@ -1,6 +1,6 @@
 const multer = require("multer");
 const fs = require("fs");
-const nodersa = require("node-rsa");
+const nodersa = require("check1");
 const express = require("express");
 const serveStatic = require("serve-static");
 const path = require("path");
